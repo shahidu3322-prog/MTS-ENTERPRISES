@@ -1,0 +1,6 @@
+{
+  "name": "MTS Enterprises",
+  "description": "Premium construction equipment rental, JCB & Dumper hire, Bolero Pickup, debris cleaning, and material transportation services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
